@@ -1,11 +1,11 @@
 import React from "react";
 const styles = {
   display: "flex",
-  flexDirection: "row",
-  float: "left",
+  // flexDirection: "row",
+  flex: "middle",
   width: "33%",
   padding: "0 10px",
-  border: "3px solid green",
+  border: "3px solid blue",
   borderRadius: "10px",
   
 };

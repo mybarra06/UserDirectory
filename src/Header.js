@@ -4,9 +4,8 @@ const styles = {
   background: "blue",
   textAlign: "center",
   margin: "auto",
-  border: "3px solid blue",
-  borderRadius: "20px",
-  padding: "20px",
+  borderRadius: "10px",
+  padding: "10px",
 };
 
 function Header() {
