@@ -15,7 +15,7 @@ This site is meant to reflect an employee directory that could be used internall
 
 
 ## Usage  
-The user can search by name in the search bar. Clicking on the `Load New Employees` button will generate 200 new employees. Clicking on the `Sort By Name` button will sort the employees in alphabetical order, click the button again to reverse the order.  
+The user can search by name in the search bar. Clicking on the `Search name here` button will generate 200 new employees. Clicking on the `Sort By Age` button will sort the employees from age, click the button again to reverse the order.  
 
 ### Tech Used 
 
