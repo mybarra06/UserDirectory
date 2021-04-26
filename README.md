@@ -10,9 +10,8 @@ This site is meant to reflect an employee directory that could be used internall
 
 <br>
 
-![Main Page](/public/assets/img/top-screenshot.png)  
+![Main Page](public\EmployeeDirect.PNG)  
 <br>  
-![Bottom Page](/public/assets/img/bottom-screenshot.png)  
 
 
 ## Usage  
@@ -21,8 +20,10 @@ The user can search by name in the search bar. Clicking on the `Load New Employe
 ### Tech Used 
 
 >Javascript  
-React
-Netlify
+
+>React
+
+>Netlify
 
 ### Installation  
 After cloning down the repo, ensure you have `Node.js`. Once Node is on your machine, while in the cloned repo's directory open the integrated terminal and enter the command `npm i` to install all need inputs.  
