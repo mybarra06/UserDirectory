@@ -10,7 +10,7 @@ This site is meant to reflect an employee directory that could be used internall
 
 <br>
 
-![Main Page](public\EmployeeDirect.PNG)  
+![Main Page](./images/EmployeeDirect.PNG)  
 <br>  
 
 
